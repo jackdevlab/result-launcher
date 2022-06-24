@@ -1,4 +1,4 @@
-package com.jack.arsenal.barcoder
+package io.github.jackdevlab.resultlauncher
 
 import android.content.Intent
 

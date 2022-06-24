@@ -2,9 +2,9 @@ package io.github.jackdevlab.resultlauncher
 
 import android.content.Intent
 import androidx.fragment.app.FragmentActivity
-import com.jack.arsenal.barcoder.ActivityResult
-import com.jack.arsenal.barcoder.PermissionsResult
-import com.jack.arsenal.barcoder.ResultLauncher
+import io.github.jackdevlab.resultlauncher.ActivityResult
+import io.github.jackdevlab.resultlauncher.PermissionsResult
+import io.github.jackdevlab.resultlauncher.ResultLauncher
 
 fun FragmentActivity.startActivityForResultCallback(intent: Intent, callback: (result: ActivityResult) -> Unit) {
     ResultLauncher.startActivityForResultCallback(this, intent, callback)
