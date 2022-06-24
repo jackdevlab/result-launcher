@@ -2,8 +2,9 @@
 easy way to start activity for result or request permissions
 
 
+## Quick Start
 
-### start activity for result
+#### start activity for result
 
 ```kotlin
 startActivityForResultCallback(intent) {
@@ -25,7 +26,7 @@ scope.launch {
 
 
 
-### request permissions
+#### request permissions
 
 ```kotlin
 
