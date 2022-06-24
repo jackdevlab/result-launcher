@@ -2,6 +2,14 @@
 easy way to start activity for result or request permissions
 
 
+## Download
+
+ResultLauncher is available on `mavenCentral()`.
+
+```kotlin
+implementation("io.github.jackdevlab:result-launcher:1.0.1")
+```
+
 ## Quick Start
 
 #### start activity for result
