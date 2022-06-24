@@ -1,5 +1,5 @@
 # ResultLauncher
-easy way to start activity for result or request permissions
+result-launcher is a android library to star activity for result and request permissons easily.
 
 
 ## Download
