@@ -1,5 +1,5 @@
 # ResultLauncher
-result-launcher is a android library to star activity for result and request permissons easily.
+result-launcher is a android library to starActivityForResult/requestPermissons easily.
 
 
 ## Download
